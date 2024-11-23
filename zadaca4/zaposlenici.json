@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "ime": "karlo",
+    "prezime": "bazina",
+    "godine": 24,
+    "pozicija": "sef"
+  },
+  {
+    "id": 11,
+    "ime": "fasdf",
+    "prezime": "fsdae",
+    "godine": 1,
+    "pozicija": "sef"
+  },
+  {
+    "id": 12,
+    "ime": "rqewrwe",
+    "prezime": "asdfghjk",
+    "godine": 5,
+    "pozicija": "sef"
+  },
+  {
+    "id": 2,
+    "ime": "patrik",
+    "prezime": "fabijanic",
+    "godine": 11,
+    "pozicija": "profi"
+  },
+  {
+    "id": 3,
+    "ime": "mroena",
+    "prezime": "gaber",
+    "godine": 4,
+    "pozicija": "programer"
+  },
+  {
+    "id": 5,
+    "ime": "fafa",
+    "prezime": "fafa",
+    "godine": 31,
+    "pozicija": "fafa"
+  }
+]
